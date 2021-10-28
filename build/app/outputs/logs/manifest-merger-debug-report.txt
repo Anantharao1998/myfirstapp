@@ -5,6 +5,7 @@ INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/And
 INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml:1:1-41:12
 INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml:1:1-41:12
 MERGED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:shared_preferences] /home/anantha/besquare/Flutter/myfirstapp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/anantha/.gradle/caches/transforms-3/3356edaff8e8c7e0091f847939ff91b5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] /home/anantha/.gradle/caches/transforms-3/6dbd49fa7b0f4b41fd564e031319f53a/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/anantha/.gradle/caches/transforms-3/32e001a2e368d5728c41f1a7539ab775/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -93,6 +94,8 @@ uses-sdk
 INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/anantha/besquare/Flutter/myfirstapp/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences] /home/anantha/besquare/Flutter/myfirstapp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/anantha/besquare/Flutter/myfirstapp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/anantha/.gradle/caches/transforms-3/3356edaff8e8c7e0091f847939ff91b5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/anantha/.gradle/caches/transforms-3/3356edaff8e8c7e0091f847939ff91b5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /home/anantha/.gradle/caches/transforms-3/6dbd49fa7b0f4b41fd564e031319f53a/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
